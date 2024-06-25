@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, Mundo! Eu sou Hugo Pizzatto 👋
 
-<!--
-**HugoPizzatto/HugoPizzatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+  Sou um desenvolvedor Full Stack apaixonado por tecnologia e inovação. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente e contribuir para projetos interessantes.
 
-Here are some ideas to get you started:
+- 👨‍💻 Desenvolvedor Full Stack
+- 🎓 Acadêmico de Ciência da Computação
+- 🌍 Morando em Rio Grande do Sul, Brasil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens e Ferramentas
+- ![HTML](https://img.shields.io/badge/-HTML5-800080?style=flat&logo=html5&logoColor=24292e)
+- ![CSS](https://img.shields.io/badge/-CSS3-800080?style=flat&logo=css3&logoColor=24292e)
+- ![Git](https://img.shields.io/badge/-Git-800080?style=flat&logo=git&logoColor=24292e)
+
+## Projetos
+Aqui está o meu projeto mais recente:
+
+- [My-First-Website](https://github.com/HugoPizzatto/My-First-Website)
+
+
+## Contato
+- 📧 Email: pizzatto.hugo@outlook.com
+- 🔗 LinkedIn: [Hugo Pizzatto](https://www.linkedin.com/in/hugo-pizzatto)
+- 📸 Instagram: [@pizzatto.hugo](https://www.instagram.com/pizzatto.hugo/)
