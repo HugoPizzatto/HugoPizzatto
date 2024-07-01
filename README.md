@@ -1,7 +1,7 @@
 # Olá, Mundo! Eu sou Hugo Pizzatto 👋
 
 ## Sobre mim
-  Sou um desenvolvedor Full Stack apaixonado por tecnologia e inovação. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente e contribuir para projetos interessantes.
+  Sou um desenvolvedor apaixonado por tecnologia e inovação. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente e contribuir para projetos interessantes.
 
 - 👨‍💻 Desenvolvedor Full Stack
 - 🎓 Acadêmico de Ciência da Computação
@@ -10,12 +10,14 @@
 ## Linguagens e Ferramentas
 - ![HTML](https://img.shields.io/badge/-HTML5-800080?style=flat&logo=html5&logoColor=24292e)
 - ![CSS](https://img.shields.io/badge/-CSS3-800080?style=flat&logo=css3&logoColor=24292e)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-800080?style=flat&logo=javascript&logoColor=24292e)
 - ![Git](https://img.shields.io/badge/-Git-800080?style=flat&logo=git&logoColor=24292e)
 
 ## Projetos
-Aqui está o meu projeto mais recente:
+Aqui estão os meus projetos mais recentes:
 
 - [My-First-Website](https://github.com/HugoPizzatto/My-First-Website)
+- [Calculo_Regra_de_Tres](https://github.com/HugoPizzatto/Calculo_Regra_de_Tres)
 
 
 ## Contato
