@@ -13,13 +13,6 @@
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-800080?style=flat&logo=javascript&logoColor=24292e)
 - ![Git](https://img.shields.io/badge/-Git-800080?style=flat&logo=git&logoColor=24292e)
 
-## Projetos
-Aqui estão os meus projetos mais recentes:
-
-- [My-First-Website](https://github.com/HugoPizzatto/My-First-Website)
-- [Calculo_Regra_de_Tres](https://github.com/HugoPizzatto/Calculo_Regra_de_Tres)
-
-
 ## Contato
 - 📧 Email: pizzatto.hugo@outlook.com
 - 🔗 LinkedIn: [Hugo Pizzatto](https://www.linkedin.com/in/hugo-pizzatto)
