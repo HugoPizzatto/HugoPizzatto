@@ -11,6 +11,7 @@
 - ![HTML](https://img.shields.io/badge/-HTML5-800080?style=flat&logo=html5&logoColor=24292e)
 - ![CSS](https://img.shields.io/badge/-CSS3-800080?style=flat&logo=css3&logoColor=24292e)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-800080?style=flat&logo=javascript&logoColor=24292e)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-800080?style=flat&logo=typescript&logoColor=24292e)
 - ![Git](https://img.shields.io/badge/-Git-800080?style=flat&logo=git&logoColor=24292e)
 
 ## Contato
