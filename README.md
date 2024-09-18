@@ -14,6 +14,12 @@
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-800080?style=flat&logo=typescript&logoColor=24292e)
 - ![Git](https://img.shields.io/badge/-Git-800080?style=flat&logo=git&logoColor=24292e)
 
+## Projetos Recentes
+- **[Calculadora em JavaScript](https://github.com/HugoPizzatto/JS_Calculator)**
+  - **Tecnologias**: HTML5, CSS3 e JavaScript.
+- **[Jogo da Velha em JavaScript](https://github.com/HugoPizzatto/JS_TicTacToe)**
+  - **Tecnologias**: HTML5, CSS3 e JavaScript.
+
 ## Contato
 - 📧 Email: pizzatto.hugo@outlook.com
 - 🔗 LinkedIn: [Hugo Pizzatto](https://www.linkedin.com/in/hugo-pizzatto)
